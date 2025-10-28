@@ -29,5 +29,3 @@ It can recognize speech commands like *"start air canvas"*, *"open finger counte
 
 ---
 
-## 🗂️ Project Structure
-
